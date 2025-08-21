@@ -1,0 +1,10 @@
+#忽略Visual Studio缓存目录
+.vs/
+
+#其他常见的临时文件（可选，根据你的开发环境添加
+*.ipch	# 忽略所有.ipch预编译文件
+Debug/	# 忽略调试目录
+Release/# 忽略发布目录
+*.suo	#Visual Studio解决方案用户选项文件
+*.user	# 项目用户配置文件
+
